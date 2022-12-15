@@ -1,0 +1,63 @@
+.navbar-brand img {
+    width: 50px;
+    margin-left: 0.5rem;
+}
+
+#main-title {
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+/* HOME */
+#emails-table {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#emails-table thead {
+    color: #fff;
+    background-color: #212529;
+}
+
+.actions {
+    text-align: right;
+    width: 150px;
+}
+
+.check-icon {
+    color: #1e7e34;
+}
+
+.edit-icon {
+    color: #007bff;
+}
+
+.delete-btn {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+}
+
+.delete-icon {
+    color: #bd2130;
+}
+
+.actions i {
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+#empty-list-text {
+    text-align: center;
+}
+
+#msg {
+    color: #155724;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
